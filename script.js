@@ -1,3 +1,9 @@
+/* 
+Copyright © 2025 Santiago Cossu (SantiagoF2-cyber)
+This work is licensed under CC BY-NC-ND 4.0.
+Do not copy, modify or use without permission.
+Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+*/
 document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("modo-oscuro-btn");
   const body = document.body;
